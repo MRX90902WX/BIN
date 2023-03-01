@@ -2,8 +2,11 @@
 
 chmod 777 generador.sh
 echo ""
-setterm -foreground green
-figlet BIN
+echo -e " \e[1;33m____ ___ _   _\e[0m"
+echo -e "\e[1;33m| __ )_ _| \ | |\e[0m"
+echo -e "\e[1;34m|  _ \| ||  \| |\e[0m"
+echo -e "\e[1;34m| |_) | || |\  |\e[0m"
+echo -e "\e[1;31m|____/___|_| \_|\e[0m"
 echo "" 
 while :
 do
