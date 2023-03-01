@@ -73,5 +73,4 @@ def main():
 main()
 
 print("")
-system("cd src")
-system("bash received.sh")
+system("bash funcion")
