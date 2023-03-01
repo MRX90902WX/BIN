@@ -1,4 +1,5 @@
 #! /bin/bash
+chmod 777 generador.sh
 echo ""
 setterm -foreground green
 figlet BIN
