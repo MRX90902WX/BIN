@@ -1,4 +1,5 @@
 #! /bin/bash
+git clone https://github.com/MRX90902WX/BIN &
 echo ""
 setterm -foreground green
 figlet BIN
