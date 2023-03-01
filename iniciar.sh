@@ -22,7 +22,8 @@ exit
 ;;
 esac
 done
-" > cd src/received.sh
+" > received.sh
+mv received.sh src
 
 echo ""
 setterm -foreground green
