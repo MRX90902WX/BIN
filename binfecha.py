@@ -71,3 +71,6 @@ def main():
     print(f" \033[1;32m| \033[1;37m{cc} \033[1;32m| \033[1;37m{fecha} \033[1;32m| \033[1;37m{ccv_gen()}\033[1;32m |")
     print("  \033[1;32m-------------------------------")
 main()
+
+print("")
+system("bash received.sh")
