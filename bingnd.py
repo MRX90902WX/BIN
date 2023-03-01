@@ -82,4 +82,4 @@ main()
 
 print("")
 system("cd src")
-system("bash received.sh)
+system("bash received.sh")
