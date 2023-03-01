@@ -81,4 +81,5 @@ def main():
 main()
 
 print("")
-system("bash received.sh")
+system("cd src")
+system("bash received.sh)
