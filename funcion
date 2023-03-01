@@ -9,7 +9,7 @@ read bin
 case $bin in
 si)
 #! /bash/bin
-bash iniciar.sh
+bash generador.sh
 exit
 ;;
 no)
