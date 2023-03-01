@@ -19,7 +19,7 @@ NOTA: USAR NAVEGADOR DUCKDUCK-GO PARA MAYOR EFECTIVIDAD CALAR EN AMAZON, PARAMOU
 
 - cd BIN
 
-- bash iniciar.sh
+- bash generador.sh
 
 #OPCIÓN 1 GENERA BIN Rnd
 
