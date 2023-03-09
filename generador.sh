@@ -1,6 +1,7 @@
 #! /bin/bash
 
 chmod 777 generador.sh
+clear
 echo ""
 echo -e " \e[1;33m____ ___ _   _\e[0m"
 echo -e "\e[1;33m| __ )_ _| \ | |\e[0m"
