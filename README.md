@@ -9,8 +9,6 @@ NOTA: USAR NAVEGADOR DUCKDUCK-GO PARA MAYOR EFECTIVIDAD CALAR EN AMAZON, PARAMOU
 
 - pkg install python
 
-- pkg install figlet
-
 - pip install datetime
 
 #CLONAR REPOSITORIO Y EJECUTAR
@@ -36,7 +34,11 @@ NOTA: USAR NAVEGADOR DUCKDUCK-GO PARA MAYOR EFECTIVIDAD CALAR EN AMAZON, PARAMOU
 ==> La cantidad a generar :
 
 *****
+#Nota: Solo genera Visa y Mastercard 
+*****
 
 CREDITOS:
 
-- Demo
+- @Demo593
+- Dudas escribeme al 
+- Telegram 🔝 
