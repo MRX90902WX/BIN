@@ -1,0 +1,4 @@
+#! /bin/bash
+
+echo -e " \e[1;31m|\e[0m            \e[1;37;41m*SCR-TEAM\e[0m            \e[1;31m|\e[0m"
+echo -e " \e[1;31m|\e[0m           \e[1;37;41m*19/05/2023\e[0m           \e[1;31m|\e[0m"
